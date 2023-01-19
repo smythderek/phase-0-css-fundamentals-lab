@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+  background-color: gray;
+}
